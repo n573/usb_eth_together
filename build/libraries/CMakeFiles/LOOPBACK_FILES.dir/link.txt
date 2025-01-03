@@ -1,0 +1,2 @@
+/home/ht-nc/.pico-sdk/toolchain/13_3_Rel1/bin/arm-none-eabi-ar qc libLOOPBACK_FILES.a CMakeFiles/LOOPBACK_FILES.dir/io6Library/Application/loopback/loopback.c.o
+/home/ht-nc/.pico-sdk/toolchain/13_3_Rel1/bin/arm-none-eabi-ranlib libLOOPBACK_FILES.a

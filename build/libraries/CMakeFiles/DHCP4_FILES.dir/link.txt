@@ -1,0 +1,2 @@
+/home/ht-nc/.pico-sdk/toolchain/13_3_Rel1/bin/arm-none-eabi-ar qc libDHCP4_FILES.a CMakeFiles/DHCP4_FILES.dir/io6Library/Internet/DHCP4/dhcpv4.c.o
+/home/ht-nc/.pico-sdk/toolchain/13_3_Rel1/bin/arm-none-eabi-ranlib libDHCP4_FILES.a

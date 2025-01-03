@@ -1,0 +1,2 @@
+/home/ht-nc/.pico-sdk/toolchain/13_3_Rel1/bin/arm-none-eabi-ar qc libDHCP6_FILES.a CMakeFiles/DHCP6_FILES.dir/io6Library/Internet/DHCP6/dhcpv6.c.o
+/home/ht-nc/.pico-sdk/toolchain/13_3_Rel1/bin/arm-none-eabi-ranlib libDHCP6_FILES.a

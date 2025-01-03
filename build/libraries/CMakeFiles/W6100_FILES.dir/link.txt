@@ -1,0 +1,2 @@
+/home/ht-nc/.pico-sdk/toolchain/13_3_Rel1/bin/arm-none-eabi-ar qc libW6100_FILES.a CMakeFiles/W6100_FILES.dir/io6Library/Ethernet/W6100/w6100.c.o CMakeFiles/W6100_FILES.dir/io6Library/Ethernet/socket.c.o CMakeFiles/W6100_FILES.dir/io6Library/Ethernet/wizchip_conf.c.o
+/home/ht-nc/.pico-sdk/toolchain/13_3_Rel1/bin/arm-none-eabi-ranlib libW6100_FILES.a
